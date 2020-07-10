@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**askmeegs/askmeegs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>### Hi! I'm Megan O'Keefe.</center>
 
-Here are some ideas to get you started:
+<center>[Website](https://askmeegs.dev)  [Twitter](https://twitter.com/askmeegs) [LinkedIn](https://linkedin.com/in/megan.a.okeefe) </center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🌈 My pronouns are she/her. 
+
+☁️ I'm a Developer Programs Engineer at Google Cloud. I work on platform infrastructure, and my job is to help make developers' lives easier + happier. 
+
+ 💻 In 2020, I am:
+- Understanding why developers run Kubernetes in hybrid and multicloud scenarios, and what kinds of tools could help. 
+- Helping developers [learn about Service Mesh and Istio](https://github.com/askmeegs/learn-istio). 
+- Building the Bank of Anthos [reference application](https://github.com/GoogleCloudPlatform/bank-of-anthos) + [demos](https://github.com/GoogleCloudPlatform/bank-of-anthos-scripts). 
+
+🌱 And I am learning about: 
+- Climate tech + sustainability.  
+- On-prem use cases for machine learning. 
+- bash, terraform, kustomize, and other platform-y tools!
+
+📫 How to reach me: [Twitter DM](https://twitter.com/askmeegs).
