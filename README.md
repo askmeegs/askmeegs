@@ -1,13 +1,10 @@
 
-<center>### Hi! I'm Megan O'Keefe.</center>
-
-<center>[Website](https://askmeegs.dev)  [Twitter](https://twitter.com/askmeegs) [LinkedIn](https://linkedin.com/in/megan.a.okeefe) </center>
-
-
+### Hi! I'm Megan O'Keefe.
 
 🌈 My pronouns are she/her. 
 
-☁️ I'm a Developer Programs Engineer at Google Cloud. I work on platform infrastructure, and my job is to help make developers' lives easier + happier. 
+☁️ I'm a Developer Programs Engineer at Google Cloud. 
+🏗 I work on platform infrastructure, and my job is to help make developers' lives easier + happier. 
 
  💻 In 2020, I am:
 - Understanding why developers run Kubernetes in hybrid and multicloud scenarios, and what kinds of tools could help. 
