@@ -15,6 +15,4 @@
 🌱 And I'm learning about: 
 - Climate tech + sustainability.  
 - On-prem use cases for machine learning. 
-- bash, terraform, kustomize, and other platform-y tools!
-
-📫 How to reach me: [Twitter DM](https://twitter.com/askmeegs).
+- bash, terraform, kustomize ☸️
