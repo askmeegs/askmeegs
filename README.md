@@ -14,4 +14,4 @@
 
 🌱 And I'm learning about: 
 - Climate tech + sustainability.  
-- Platform developer tools like Terraform and Kustomize :D ☸️
+- Platform developer tools like Terraform and kustomize ☸️
