@@ -8,11 +8,10 @@
 🏗 I work on platform infrastructure, and my job is to help make developers' lives easier + happier. 
 
  💻 In 2020, I am:
-- Understanding why developers run Kubernetes in hybrid and multicloud scenarios, and what kinds of tools could help. 
+- Hearing from developers about the challenges of operating software infrastructure.
 - Helping developers [learn about Service Mesh and Istio](https://github.com/askmeegs/learn-istio). 
-- Building the Bank of Anthos [reference application](https://github.com/GoogleCloudPlatform/bank-of-anthos) + [demos](https://github.com/GoogleCloudPlatform/bank-of-anthos-scripts). 
+- Building the Bank of Anthos [reference application](https://github.com/GoogleCloudPlatform/bank-of-anthos) + [demos](https://github.com/GoogleCloudPlatform/bank-of-anthos-scripts).
 
 🌱 And I'm learning about: 
 - Climate tech + sustainability.  
-- On-prem use cases for machine learning. 
-- bash, terraform, kustomize ☸️
+- Platform developer tools like Terraform and Kustomize :D ☸️
