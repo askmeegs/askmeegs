@@ -1,8 +1,6 @@
 
-### Hi! I'm Megan O'Keefe.
-
-🌈 My pronouns are she/her. 
+### Hi! I'm Megan.
 
 ☁️ I'm a Developer Programs Engineer at Google Cloud. 
 
-🏗 I work on infrastructure (Kubernetes, mostly) and my job is to help make developers' lives easier and happier.
+🏗 My job is to help developers build on top of Kubernetes using building blocks like declarative config and service mesh.
