@@ -1,6 +1,10 @@
 
 ### Hi! I'm Megan.
 
-☁️ I'm a Developer Programs Engineer at Google Cloud. 
+✨  My pronouns are they/them.
 
-🏗 My job is to help developers build on top of Kubernetes using building blocks like declarative config and service mesh.
+☸️ I help developers build platforms on top of Kubernetes, in the cloud or anywhere.
+
+📚 Ask me about: GKE, Anthos, declarative config, service mesh
+
+☕️ Currently learning: kpt, Terraform, Python 
