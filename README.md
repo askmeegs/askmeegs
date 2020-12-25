@@ -1,7 +1,7 @@
 
 ### Hi! I'm Megan.
 
-✨  My pronouns are they/them.
+✨  My pronouns are [they/them](https://pronoun.is/they).
 
 ☸️ I help developers build platforms on top of Kubernetes, in the cloud or anywhere.
 
