@@ -3,8 +3,8 @@
 
 ✨  My pronouns are [they/them](https://pronoun.is/they).
 
-☸️ I help developers build platforms on top of Kubernetes, in the cloud or anywhere.
+☸️ I help developers build platforms on Kubernetes-- in the ☁️ cloud, 🏠 on prem, 🚍 on a bus, wherever.  
 
-📚 Ask me about: [GKE](https://cloud.google.com/kubernetes-engine), [Anthos](https://cloud.google.com/anthos/docs/concepts/overview), declarative config, [service mesh](https://github.com/askmeegs/learn-istio)
+📚 Ask me about: [GKE](https://cloud.google.com/kubernetes-engine), declarative config + policy, [service mesh](https://github.com/askmeegs/learn-istio), and [Anthos](https://cloud.google.com/anthos). 
 
-☕️ Currently learning: [kpt](https://github.com/GoogleContainerTools/kpt), [Terraform](https://www.terraform.io/), Python 
+☕️ Currently learning: [kpt](https://github.com/GoogleContainerTools/kpt)
