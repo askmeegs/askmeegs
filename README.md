@@ -1,7 +1,7 @@
 
 ## Hi! I'm Megan. 
 
-☸️ I help developers build platforms with Kubernetes. My goal is to help people at every stage of the Kubernetes adoption process - from figuring out if they need K8s, to making it easier to work with YAML files, to building consistenty across multiple clusters.  
+☸️ I help developers build platforms with Kubernetes.
 
  **✨ Stuff I know about**: [GKE](https://cloud.google.com/kubernetes-engine), [service mesh](https://github.com/askmeegs/learn-istio), [Anthos](https://cloud.google.com/anthos). 
 
