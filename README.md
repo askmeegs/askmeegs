@@ -3,12 +3,12 @@
 
 ☸️ I help developers build platforms with Kubernetes. 
 
-### Currently building...
+### 🏗 Currently building...
 - [Demo - Intro to KRM](https://github.com/askmeegs/learn-krm)
 - [Sample app - Bank of Anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos)
 - [Sample app - OnlineBoutique](https://github.com/GoogleCloudPlatform/microservices-demo)
 
-### Around the internet!
+### 🔎 Around the internet!
 - [Kubernetes - A Short Introduction](https://www.slideshare.net/MeganOKeefe1/kubernetes-a-short-introduction-2019?ref=https%3A%2F%2Faskmeegs.dev%2Ftalks%2F)
 - [A Kubernetes Workflow for MacOS](https://medium.com/@mo_keefe/a-kubernetes-development-workflow-for-macos-8c41669a4518) 
 - [Edge Computing and the Cloud-Native Ecosystem](https://thenewstack.io/edge-computing-and-the-cloud-native-ecosystem/)
