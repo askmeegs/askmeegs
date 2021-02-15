@@ -3,9 +3,9 @@
 
 ☸️ I help developers build platforms with Kubernetes. My goal is to help people at every stage of the Kubernetes adoption process - from figuring out if they need K8s, to making it easier to work with YAML files, to building consistenty across multiple clusters.  
 
- **✨ Stuff I know about**: GKE, service mesh, Anthos. 
+ **✨ Stuff I know about**: [GKE](https://cloud.google.com/kubernetes-engine), [service mesh](https://github.com/askmeegs/learn-istio), [Anthos](https://cloud.google.com/anthos). 
 
-**🏗 Currently building:** [Intro to KRM (demo)](https://github.com/askmeegs/intro-to-krm), [Bank of Anthos (sample app)](https://github.com/GoogleCloudPlatform/bank-of-anthos), [OnlineBoutique (sample app](https://github.com/GoogleCloudPlatform/microservices-demo)
+**🏗 Currently building:** [Intro to KRM](https://github.com/askmeegs/intro-to-krm), [Bank of Anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos), [OnlineBoutique](https://github.com/GoogleCloudPlatform/microservices-demo)
 
 ### 🔎 Around the internet...
 
