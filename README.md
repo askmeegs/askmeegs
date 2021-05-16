@@ -5,7 +5,7 @@
 
  **✨ Stuff I know about**: [GKE](https://cloud.google.com/kubernetes-engine), [service mesh](https://github.com/askmeegs/learn-istio), and [Anthos](https://cloud.google.com/anthos).
 
-**🏗 Currently building:** [Intro to KRM](https://github.com/askmeegs/intro-to-krm) 
+**🏗 Currently building:** [Build a Platform with KRM](https://github.com/askmeegs/build-a-platform-with-krm) 
 
 ### 🔎 Around the internet...
 
