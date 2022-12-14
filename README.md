@@ -10,7 +10,7 @@
 
 `my ✨ skills ✨`  
 
-![My Skills](https://skillicons.dev/icons?i=py,go,kubernetes,docker,gcp,azure,aws)
+![My Skills](https://skillicons.dev/icons?i=py,go,kubernetes,docker,gcp,azure,aws&theme=light)
 
 
 
