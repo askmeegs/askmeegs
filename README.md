@@ -8,6 +8,8 @@
 - Currently learning about: AI/ML (Tensorflow, natural language models) and hardware (Raspberry Pi/Arduino). 📚 
 - In my spare time, I like to play music (🎸 🎻 🎹), write fiction 📖, and watch sci-fi films/TV 🪐. 
 
+`my ✨ skills ✨`  
+
 ![My Skills](https://skillicons.dev/icons?i=py,go,kubernetes,docker,gcp,azure,aws)
 
 
