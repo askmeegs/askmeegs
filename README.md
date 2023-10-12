@@ -2,8 +2,8 @@
 
 - I'm Megan. I'm a developer who is passionate about making other developers' lives better. 💖
 - I currently lead a competitive evaluations team for Google Cloud. ☁️
-- (Before that, I worked a lot with containers and Kubernetes.) ☸️
-- I enjoy: making fun demos, talking with other developers, writing, and playing music. 🎸
+- I also work a lot with containers and Kubernetes. ☸️
+- I enjoy: talking with other developers, writing, TTRPGs, and playing music. 🎸
 
 `✨ my skills ✨`  
 
