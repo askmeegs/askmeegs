@@ -6,6 +6,6 @@
 
 `✨ my skills ✨`  
 
-![My Skills](https://skillicons.dev/icons?i=py,go,kubernetes,docker,gcp,azure,aws&theme=light)
+![My Skills](https://skillicons.dev/icons?i=gcp,aws,azure,py,nodejs,java,terraform,kubernetes&theme=dark)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faskmeegs&label=%F0%9F%8F%A1%20visitors&labelColor=%232ccce4&countColor=%23dce775&style=flat-square)
