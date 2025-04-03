@@ -1,7 +1,6 @@
 ### Hi! 
 
 - I'm Megan. I'm a developer who is passionate about making other developers' lives easier. 💻
-- I lead a competitive evaluations team for Google Cloud. ☁️
 - I enjoy: writing, traveling, and playing music. 🎸
 
 `✨ my skills ✨`  
