@@ -1,6 +1,6 @@
 # 🐸
 
-👋 I'm Megan. I love helping developers adopt new tech and get unstuck. 
+👋 I'm Megan. I love helping developers solve problems.
 
 I'm currently the tech lead for Google Cloud Developer Relations.  
 
